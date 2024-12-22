@@ -1,0 +1,1 @@
+# PINN-algorithm-to-predict-displacement-magnitude-in-structural-architected-materials
