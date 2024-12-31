@@ -1,1 +1,5 @@
 # PINN-algorithm-to-predict-displacement-magnitude-in-structural-architected-materials
+
+This research proposes an innovative method for predicting deformation in architected lattice structures that combines Physics-Informed Neural Networks (PINNs) with finite element analysis. A thorough study was carried out on FCC-based lattice beams utilizing five different materials (Structural Steel, AA6061, AA7075, Ti6Al4V, and Inconel 718) under varied edge loads (1000-10000 N). The PINN model blends data-driven learning with physics-based limitations via a proprietary loss function, resulting in much higher prediction accuracy than linear regression. PINN outperforms linear regression, achieving greater R² (0.7923 vs 0.5686) and lower error metrics (MSE: 0.00017417 vs 0.00036187). Among the materials examined, AA6061 had the highest displacement sensitivity (0.1014 mm at maximum load), while Inconel718 had better structural stability.
+
+![Picture3](https://github.com/user-attachments/assets/ac7a6fb1-bd39-4b7a-93c4-c4ebb324796c)
